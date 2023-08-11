@@ -1,0 +1,97 @@
+body {
+ background-color: #2C2B3D;
+ color: #FFFFFF;
+
+}
+
+nav {
+   display: flex;
+   font-family: 'JetBrains Mono', monospace;
+   font-weight: medium;
+   font-size: 14px;
+   color: #FFFFFF;
+
+   margin: 71px 99px 99px 101px ;
+      
+}
+
+ul {
+    padding-left: 607px;
+ 
+    display: flex;
+
+    list-style: none;
+
+    gap: 64px;
+    
+   
+      }
+      
+
+
+
+
+
+main {
+    display: flex;
+    align-items: center;
+   
+     margin: 0px 99px 157px 101px;
+}
+
+
+.text {
+    align-items: center;
+    margin-left: 82px;
+    text-align: center;
+    
+     
+     
+}
+
+
+
+h1 {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: bold;
+    font-size: 36px;
+
+}
+
+p {
+    color: #C2C2C2;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400px;
+   
+    align-items: flex-start;
+    align-items: center;
+    line-height: 2;
+}
+
+span {
+    color: #00BFA6;
+    font-weight: bold;
+}
+
+.instagram {
+        display: flex;
+        align-items: center;
+
+        margin-left: 356px;
+
+        text-align: center;
+
+        margin: 0px 356px 20px ;
+        
+        justify-content: center;
+
+}
+
+.cadeado {
+    position: fixed;
+
+    margin-left: 20px;
+    margin-bottom: 20px;
+
+}
